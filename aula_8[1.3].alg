@@ -1,3 +1,4 @@
+// [Exemplo 1.3] Escreva um algoritmo que conte de 1 até 10 usando “PARA”.
 algoritmo "Contador"
 var
     contador : Inteiro
