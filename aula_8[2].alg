@@ -1,3 +1,5 @@
+//[Exemplo 2] Escreva um algoritmo que leia um valor do user e depois diga quantos valores pares existem de zero até o valor que o usuário informou.
+
 algoritmo "ContadorPares"
 var
       end, i, contador : Inteiro
