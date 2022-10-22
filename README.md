@@ -1,6 +1,5 @@
 # VisualG
 
-Soluções dos exercícios feitos em aula.
+Soluções dos exercícios feitos em aula e toda a parte de teoria das aulas está aqui.
 Façam bom uso!
 
-OBS 1: Todos os exercícios da aula 8, na verdade são da aula 9.
